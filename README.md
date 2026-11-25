@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there! 👋 I'm Udhaya Nandhini
 
-<!--
-**udhayanandhini529/udhayanandhini529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Artificial Intelligence and Machine Learning Student.
 
-Here are some ideas to get you started:
+🌱 Currently learning Python, Machine Learning, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Artificial Intelligence, Machine Learning, and Software Development.
+
+🔭 Working on beginner-friendly Python programs and Machine Learning projects.
+
+📚 Improving my programming, problem-solving, and technical skills.
+
+🤝 Open to learning, collaborating, and working on innovative projects.
+
+### 🛠️ Technologies I'm Learning
+- Python
+- HTML & CSS
+- Machine Learning
+- Data Science
+
+### 📌 My Goals
+- Build real-world projects.
+- Improve my coding skills.
+- Explore AI and ML applications.
+- Prepare for career opportunities in the tech industry.
+
+### 📫 Connect With Me
+- GitHub: [udhayanandhini529](https://github.com/udhayanandhini529)
+
+✨ *Learning something new every day and growing one step at a time!*
